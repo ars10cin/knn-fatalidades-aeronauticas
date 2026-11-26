@@ -1,0 +1,5 @@
+Configuração,Componentes,AUC (CV treino),Recall (CV treino),AUC (teste),Recall (teste),Precisão (teste)
+Sem PCA (modelo principal),todas (71),0.862 ± 0.020,0.874 ± 0.044,0.852,0.78,0.142
+PCA 90%,21,0.856 ± 0.020,0.844 ± 0.048,0.847,0.823,0.146
+PCA 95%,27,0.859 ± 0.021,0.841 ± 0.056,0.861,0.83,0.153
+PCA 99%,40,0.858 ± 0.022,0.851 ± 0.057,0.854,0.794,0.147

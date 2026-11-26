@@ -1,0 +1,7 @@
+comparação,métrica,diferença média,p (Wilcoxon),p (t corrigido)
+Undersampling vs Sem balanceamento,roc_auc,0.1139,1.86e-09,1.89e-09
+Undersampling vs SMOTE,roc_auc,0.0767,1.86e-09,1.77e-07
+SMOTE vs Sem balanceamento,roc_auc,0.0373,4.66e-08,0.000571
+Undersampling vs Sem balanceamento,recall,0.7275,1.71e-06,1.29e-22
+Undersampling vs SMOTE,recall,0.3176,1.71e-06,3.78e-14
+SMOTE vs Sem balanceamento,recall,0.4099,1.73e-06,1.26e-15

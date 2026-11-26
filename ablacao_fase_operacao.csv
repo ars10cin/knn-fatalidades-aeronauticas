@@ -1,0 +1,4 @@
+Modelo,nº atributos,AUC (CV treino),Recall (CV treino),AUC (teste),PR-AUC (teste),Recall (teste),Precisão (teste),% sinalizado
+Completo (8 atributos),8,0.863 ± 0.019,0.883 ± 0.042,0.853,0.164,0.787,0.142,0.263
+Sem fase_operacao,7,0.809 ± 0.031,0.806 ± 0.049,0.8,0.122,0.78,0.113,0.329
+Sem fase_operacao e tipo_operacao,6,0.806 ± 0.031,0.818 ± 0.058,0.776,0.107,0.759,0.106,0.341
